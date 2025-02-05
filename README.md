@@ -9,7 +9,8 @@
 <body>
     <h1>hi its jeremiah daniel butler</h1>
     <h3> i do <b>random fact</b> </h3>
-    <li> i like pizza, i like getting stronger</li>
+    <li> i like pizza</li> 
+    <li>i like getting stronger</li>
     <li>i like to game</li>
     <h3>i like relaxing</h3>
 </body>
